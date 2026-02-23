@@ -198,14 +198,14 @@ with st.sidebar:
     st.markdown("""
     <div style="text-align:center;padding:1.5rem 0 1rem;">
         <div style="font-size:2.5rem;margin-bottom:.5rem;
-                    filter:drop-shadow(0 0 16px rgba(124,58,237,1));">⚡</div>
+                    filter:drop-shadow(0 0 16px rgba(124,58,237,1));">🦂</div>
         <div style="font-family:'Syne',sans-serif;font-weight:800;font-size:1.1rem;
                     background:linear-gradient(135deg,#a78bfa,#38bdf8);
                     -webkit-background-clip:text;-webkit-text-fill-color:transparent;">
             Python Fundamentals
         </div>
         <div style="color:#64748b;font-size:.75rem;letter-spacing:.1em;margin-top:.25rem;">
-            MÓDULO 1 · 2025
+            MÓDULO 1 · 2026
         </div>
     </div>
     <hr style="border-color:#1e1e2e;margin:.5rem 0 1.5rem;"/>
@@ -249,17 +249,17 @@ if "Home" in menu:
                     pointer-events:none;"></div>
         <div style="position:relative;z-index:1;">
             <div style="font-family:'Space Mono',monospace;color:#7c3aed;font-size:.85rem;
-                        letter-spacing:.2em;margin-bottom:1rem;">// PROYECTO APLICADO · 2025</div>
+                        letter-spacing:.2em;margin-bottom:1rem;">// Autor: Jorge Zavaleta</div>
             <h1 style="font-family:'Syne',sans-serif;font-weight:800;font-size:clamp(2rem,4vw,3rem);
                         margin:0 0 .5rem;
                         background:linear-gradient(135deg,#fff 30%,#a78bfa 70%,#38bdf8 100%);
                         -webkit-background-clip:text;-webkit-text-fill-color:transparent;line-height:1.1;">
-                Fundamentos de<br>Programación en Python
+                Proyecto aplicado<br>en Streamlit I
             </h1>
             <p style="color:#94a3b8;font-size:1.05rem;margin:.75rem 0 1.5rem;max-width:600px;">
                 Aplicación interactiva desarrollada con <strong style="color:#a78bfa;">Streamlit</strong>
                 que integra variables, estructuras de datos, control de flujo, funciones,
-                programación funcional y POO.
+                programación funcional y Programación Orientada a Objetos (POO).
             </p>
             <div style="display:flex;gap:.75rem;flex-wrap:wrap;">
     """ + badge("Python 3.11", "#f59e0b") + badge("Streamlit", "#06b6d4") +
