@@ -1,4 +1,4 @@
-# 🦂 Python Fundamentals – Módulo 1
+# 🦂 Proyecto aplicado en Streamlit
 ### Especialización en Python for Analytics · DMC Institute
 
 ---
@@ -37,7 +37,6 @@ cd python-fundamentals-modulo1
 ### 2. Crear entorno virtual (recomendado)
 ```bash
 python -m venv venv
-source venv/bin/activate        # macOS / Linux
 venv\Scripts\activate           # Windows
 ```
 
@@ -104,11 +103,7 @@ Los registros del Ejercicio 2 se convierten en objetos mediante una **list compr
 
 ## 👤 Autor
 
-**Tu Nombre Aquí**  
-Especialización en Python for Analytics · DMC Institute  
-2025
+**Jorge Augusto Zavaleta Quintana**  
+Curso: Especialización en Python for Analytics · DMC Institute  
+2026
 
----
-
-> *"No es necesario saberlo todo para comenzar a crear; es suficiente con comprender bien las herramientas que ya se tienen."*  
-> — Carlos Carrillo Villavicencio
